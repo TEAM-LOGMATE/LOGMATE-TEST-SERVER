@@ -1,0 +1,13 @@
+package sample.logmatetest;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LogmateTestApplicationTests {
+
+  @Test
+  void contextLoads() {
+  }
+
+}
