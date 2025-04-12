@@ -12,13 +12,13 @@ import org.springframework.web.bind.annotation.RestController;
 @Slf4j
 public class LogTestController {
 
-  @Value("${server.application.name}")
+  @Value("${spring.application.name}")
   private String name;
 
   @GetMapping
-  public void testLog(HttpServletRequest httpServletRequest) throws InterruptedException {
+  public void testLog() throws InterruptedException {
     while (true) {
-      Thread.sleep(1000);
+      Thread.sleep(3000);
       log.info("INFO 로그입니다. application name: {}" , name);
       log.warn("WARN 로그입니다.application name: {}" , name);
       log.error("ERROR 로그입니다.application name: {}" , name);

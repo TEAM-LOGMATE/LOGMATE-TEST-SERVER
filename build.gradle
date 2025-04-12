@@ -29,7 +29,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.TEAM-LOGMATE:LOGMATE-LIBRARY:1.0.5'
+    implementation 'com.github.TEAM-LOGMATE:LOGMATE-LIBRARY:1.0.6'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
