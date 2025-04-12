@@ -1,0 +1,155 @@
+2025-04-09 00:57:42 [main] INFO  s.logmatetest.LogmateTestApplication - Starting LogmateTestApplication using Java 17.0.1 with PID 23436 (C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test\build\classes\java\main started by kan02 in C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test)
+2025-04-09 00:57:42 [main] INFO  s.logmatetest.LogmateTestApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-09 00:57:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-09 00:57:43 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-09 00:57:43 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-09 00:57:43 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-09 00:57:43 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-09 00:57:43 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 787 ms
+2025-04-09 00:57:43 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-09 00:57:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-04-09 00:57:43 [main] INFO  s.logmatetest.LogmateTestApplication - Started LogmateTestApplication in 1.728 seconds (process running for 2.719)
+2025-04-09 00:57:53 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-09 00:57:53 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-09 00:57:53 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-09 00:57:53 [http-nio-8080-exec-1] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 00:57:53 [http-nio-8080-exec-1] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 00:57:53 [http-nio-8080-exec-1] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 00:57:56 [http-nio-8080-exec-4] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 00:57:56 [http-nio-8080-exec-4] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 00:57:56 [http-nio-8080-exec-4] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 00:58:01 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-09 00:58:02 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-09 01:26:52 [Test worker] INFO  s.l.LogmateTestApplicationTests - Starting LogmateTestApplicationTests using Java 17.0.1 with PID 12420 (started by kan02 in C:\Users\kan02\OneDrive\���� ȭ��\�ڹ�������Ʈ\logmate-test)
+2025-04-09 01:26:52 [Test worker] INFO  s.l.LogmateTestApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-04-09 01:26:53 [Test worker] INFO  s.l.LogmateTestApplicationTests - Started LogmateTestApplicationTests in 1.674 seconds (process running for 3.093)
+2025-04-09 02:08:17 [main] INFO  s.logmatetest.LogmateTestApplication - Starting LogmateTestApplication using Java 17.0.1 with PID 20060 (C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test\build\classes\java\main started by kan02 in C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test)
+2025-04-09 02:08:17 [main] INFO  s.logmatetest.LogmateTestApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-09 02:08:18 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-09 02:08:18 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-09 02:08:18 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-09 02:08:18 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-09 02:08:18 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-09 02:08:18 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1077 ms
+2025-04-09 02:08:18 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-09 02:08:18 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-04-09 02:08:18 [main] INFO  s.logmatetest.LogmateTestApplication - Started LogmateTestApplication in 2.793 seconds (process running for 4.199)
+2025-04-09 02:09:02 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-09 02:09:02 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-09 02:09:02 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-09 02:09:02 [http-nio-8080-exec-1] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 02:09:02 [http-nio-8080-exec-1] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 02:09:02 [http-nio-8080-exec-1] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 02:11:42 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-09 02:11:42 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-09 02:18:16 [main] INFO  s.logmatetest.LogmateTestApplication - Starting LogmateTestApplication using Java 17.0.1 with PID 20384 (C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test\build\classes\java\main started by kan02 in C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test)
+2025-04-09 02:18:16 [main] INFO  s.logmatetest.LogmateTestApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-09 02:18:20 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-09 02:18:20 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-09 02:18:20 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-09 02:18:20 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-09 02:18:20 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-09 02:18:20 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3830 ms
+2025-04-09 02:18:20 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-09 02:18:20 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-04-09 02:18:20 [main] INFO  s.logmatetest.LogmateTestApplication - Started LogmateTestApplication in 5.114 seconds (process running for 5.948)
+2025-04-09 02:18:32 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-09 02:18:32 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-09 02:18:32 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-09 02:18:32 [http-nio-8080-exec-1] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 02:18:32 [http-nio-8080-exec-1] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 02:18:32 [http-nio-8080-exec-1] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 02:18:41 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-09 02:18:42 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-09 16:35:25 [main] INFO  s.logmatetest.LogmateTestApplication - Starting LogmateTestApplication using Java 17.0.1 with PID 20100 (C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test\build\classes\java\main started by kan02 in C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test)
+2025-04-09 16:35:25 [main] INFO  s.logmatetest.LogmateTestApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-09 16:35:26 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-09 16:35:26 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-09 16:35:26 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-09 16:35:26 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-09 16:35:26 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-09 16:35:26 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1179 ms
+2025-04-09 16:35:27 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-09 16:35:27 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-04-09 16:35:27 [main] INFO  s.logmatetest.LogmateTestApplication - Started LogmateTestApplication in 2.411 seconds (process running for 3.672)
+2025-04-09 16:35:31 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-09 16:35:31 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-09 16:35:31 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-09 16:35:31 [http-nio-8080-exec-1] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:35:31 [http-nio-8080-exec-1] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:35:31 [http-nio-8080-exec-1] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:31 [http-nio-8080-exec-5] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:31 [http-nio-8080-exec-5] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:31 [http-nio-8080-exec-5] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:31 [http-nio-8080-exec-6] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:31 [http-nio-8080-exec-6] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:31 [http-nio-8080-exec-6] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:33 [http-nio-8080-exec-7] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:33 [http-nio-8080-exec-7] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:33 [http-nio-8080-exec-7] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:34 [http-nio-8080-exec-8] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:34 [http-nio-8080-exec-8] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:34 [http-nio-8080-exec-8] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:34 [http-nio-8080-exec-10] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:34 [http-nio-8080-exec-10] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:34 [http-nio-8080-exec-10] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:34 [http-nio-8080-exec-9] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:34 [http-nio-8080-exec-9] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:34 [http-nio-8080-exec-9] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:35 [http-nio-8080-exec-2] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:35 [http-nio-8080-exec-2] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:35 [http-nio-8080-exec-2] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:41 [http-nio-8080-exec-4] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:41 [http-nio-8080-exec-4] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:41 [http-nio-8080-exec-4] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:42 [http-nio-8080-exec-5] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:42 [http-nio-8080-exec-5] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:42 [http-nio-8080-exec-5] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:42 [http-nio-8080-exec-6] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:42 [http-nio-8080-exec-6] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:42 [http-nio-8080-exec-6] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:43 [http-nio-8080-exec-7] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:43 [http-nio-8080-exec-7] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:43 [http-nio-8080-exec-7] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:44 [http-nio-8080-exec-8] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:44 [http-nio-8080-exec-8] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:44 [http-nio-8080-exec-8] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:47 [http-nio-8080-exec-2] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:47 [http-nio-8080-exec-2] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:47 [http-nio-8080-exec-2] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:49 [http-nio-8080-exec-3] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:49 [http-nio-8080-exec-3] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:49 [http-nio-8080-exec-3] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:56 [http-nio-8080-exec-5] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:56 [http-nio-8080-exec-5] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:56 [http-nio-8080-exec-5] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:37:58 [http-nio-8080-exec-6] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 16:37:58 [http-nio-8080-exec-6] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 16:37:58 [http-nio-8080-exec-6] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 16:44:19 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-09 16:44:20 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-09 17:04:53 [main] INFO  s.logmatetest.LogmateTestApplication - Starting LogmateTestApplication using Java 17.0.1 with PID 11720 (C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test\build\classes\java\main started by kan02 in C:\Users\kan02\OneDrive\바탕 화면\자바프로젝트\logmate-test)
+2025-04-09 17:04:53 [main] INFO  s.logmatetest.LogmateTestApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-09 17:04:54 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-09 17:04:54 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-09 17:04:54 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-09 17:04:54 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-09 17:04:54 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-09 17:04:54 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 975 ms
+2025-04-09 17:04:54 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-09 17:04:54 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-04-09 17:04:54 [main] INFO  s.logmatetest.LogmateTestApplication - Started LogmateTestApplication in 2.0 seconds (process running for 2.67)
+2025-04-09 17:05:24 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-09 17:05:24 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-09 17:05:24 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-09 17:05:24 [http-nio-8080-exec-1] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 17:05:24 [http-nio-8080-exec-1] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 17:05:24 [http-nio-8080-exec-1] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 17:05:27 [http-nio-8080-exec-3] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 17:05:27 [http-nio-8080-exec-3] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 17:05:27 [http-nio-8080-exec-3] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 17:05:31 [http-nio-8080-exec-2] INFO  s.logmatetest.LogTestController - INFO 로그입니다.
+2025-04-09 17:05:31 [http-nio-8080-exec-2] WARN  s.logmatetest.LogTestController - WARN 로그입니다.
+2025-04-09 17:05:31 [http-nio-8080-exec-2] ERROR s.logmatetest.LogTestController - ERROR 로그입니다.
+2025-04-09 17:05:34 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-09 17:05:34 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
